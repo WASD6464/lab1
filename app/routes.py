@@ -16,7 +16,7 @@ def index():
             'body': 'The Avengers movie was so cool!' 
         },  
         { 
-            'author': {'username': "Давид"}, 
+            'author': {'username': "Костя"}, 
             'body':'вы самый лучший преподаватель в МТУСИ' 
         } 
     ]  
